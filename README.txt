@@ -1,0 +1,1 @@
+it's just https://github.com/isomorphic-git/pgp-plugin but I ran webpack on it
