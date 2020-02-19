@@ -1,1 +1,1 @@
-it's just https://github.com/isomorphic-git/pgp-plugin but I ran webpack on it
+it's just https://github.com/samalws/openpgp-plugin/tree/personalUse but I ran webpack on it
